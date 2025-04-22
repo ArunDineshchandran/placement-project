@@ -1,6 +1,0 @@
-def call() {
-
-echo "Hi team this is Arun"
-
-}
-
